@@ -21,7 +21,7 @@ Contributions welcome. Add links, instructions, or code through pull requests or
 
 ## External Plugins
 Plugins and add-ons for applications other than Nomie (e.g. git, vim, Visual Studio Code)
-- [Git Commit Logger](https://gist.github.com/thejeshgn/c81d784a8a81db41f97eaa6c5d4f6ffb) - You can add this to your Git setup via instructions found at [this gist](https://gist.github.com/thejeshgn/c81d784a8a81db41f97eaa6c5d4f6ffb).
+- [Git/Hg Commit Logger](https://thejeshgn.com/2017/05/03/logging-code-commits-with-nomie/) - You can add this to your Git setup via instructions found at [this gist](https://gist.github.com/thejeshgn/c81d784a8a81db41f97eaa6c5d4f6ffb).
 
 ## Cloud Apps
 - **Weather Tracker** - This Cloud App logs the temperature and humidity daily. Add it through the `General` tab in the Cloud App store.
